@@ -1,0 +1,8 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+
+.navbar-brand img{ width: 120px;}
+
+.carousel img{height: 1000px ; object-fit: cover;}
+
+.propio img{ width:150px;}
