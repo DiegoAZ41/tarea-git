@@ -10,8 +10,8 @@
 .card img{ height: 200px; object-fit: cover;}
 
 .card-text{
-    display: -webkit-box;
-    -webkit-line-clamp: 5; /* Number of lines */
+    display:-webkit-box;
+    -webkit-line-clamp: 5;
     -webkit-box-orient: vertical;
     overflow: auto;
     text-overflow: ellipsis;
