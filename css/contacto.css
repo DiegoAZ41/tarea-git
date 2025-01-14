@@ -6,3 +6,12 @@
 .carousel img{height: 1000px ; object-fit: cover;}
 
 .propio img{ width:150px;}
+
+   .bg-propio{
+      background-color: #0b8123
+    }
+
+.redes img{width:100%; height:100px;}
+                      
+
+.btn{color: rgb(255, 255, 255);}
